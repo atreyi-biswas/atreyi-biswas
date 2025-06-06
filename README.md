@@ -1,5 +1,5 @@
 # 💫 About Me:
-student at IIEST Shibpur<br>department of Computer Science and Technology<br>currently entering 2nd year<br>batch 2024-2028
+-student at IIEST Shibpur<br>-department of Computer Science and Technology<br>-currently entering 2nd year<br>-batch 2024-2028
 
 
 ## 🌐 Socials:
