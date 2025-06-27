@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Atreyi Biswas</h1>
-<h3 align="center">Learning. Coding. Growing.</h3><br>
--Student at **IIEST Shibpur**<br>-Department of **Computer Science and Technology**<br>-Currently entering 2nd year<br>-Batch **2024-2028**
+<h3 align="center">Learning. Coding. Growing.</h3><br><br>
+
+-Student at **IIEST Shibpur**<br>
+-Department of **Computer Science and Technology**<br>
+-Currently entering 2nd year<br>
+-Batch **2024-2028**
 
 
 <h3 align="left">Connect with me:</h3>
