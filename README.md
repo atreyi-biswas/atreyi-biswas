@@ -3,7 +3,7 @@
 
 -Student at **IIEST Shibpur**<br>
 -Department of **Computer Science and Technology**<br>
--Currently entering 2nd year<br>
+-Currently in my 2nd year<br>
 -Batch **2024-2028**
 
 
