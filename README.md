@@ -37,6 +37,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=atreyi-biswas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atreyi-biswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atreyi-biswas&" alt="atreyi-biswas" /></p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atreyi-biswas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atreyi-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="atreyi-biswas" /> </p>
