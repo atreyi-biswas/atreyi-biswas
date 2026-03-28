@@ -39,15 +39,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atreyi-biswas&" alt="atreyi-biswas" /></p>
 
+[![](https://visitcount.itsvg.in/api?id=atreyi-biswas&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atreyi-biswas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atreyi-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="atreyi-biswas" /> </p>
 
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=atreyi-biswas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=atreyi-biswas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
