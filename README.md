@@ -11,8 +11,8 @@
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/atreyi-biswas-02669a309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atreyi-biswas-0269a309" height="30" width="40" /></a><br>
-<a href="https://dribbble.com/skull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="skull" height="30" width="40" />
-</a>
+<!-- <a href="https://dribbble.com/skull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="skull" height="30" width="40" />
+</a> -->
 </p>
 
 ---
@@ -25,8 +25,9 @@
 
 ### Design Tools:
 ![Figma](https://img.shields.io/badge/figma-%235B72BE.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%12F22E1E.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) <br>
+<!--![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%12F22E1E.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) --> 
+<br>
 
 
 ### Web Technologies: 
