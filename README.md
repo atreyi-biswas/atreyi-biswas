@@ -1,3 +1,14 @@
+<div align="center" style="padding-left: 20px; padding-right: 20px;">
+
+<table style="
+  border: 5px solid red;
+  border-radius: 20px;
+  padding: 20px;
+  width: 100%;
+">
+<tr>
+<td>
+
 <h1 align="center">Hi 👋, I'm Atreyi Biswas</h1>
 <h3 align="center">Learning. Coding. Designing. Growing.</h3><br><br>
 
@@ -73,4 +84,8 @@
 ---
 
 
+</td>
+</tr>
+</table>
 
+</div>
