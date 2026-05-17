@@ -1,55 +1,50 @@
-<p align="center">
-  <img src="unicorn_border.svg" alt="Pixelated galaxy unicorn border" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Atreyi Biswas</h1>
 <h3 align="center">Learning. Coding. Designing. Growing.</h3><br><br>
 
--Student at **IIEST Shibpur**<br>
--Department of **Computer Science and Technology**<br>
--Currently in my 2nd year<br>
--Batch **2024-2028**
+- Student at **IIEST Shibpur**<br>
+- Department of **Computer Science and Technology**<br>
+- Currently in my 2nd year<br>
+- Batch **2024-2028**
 
 ---
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/atreyi-biswas-02669a309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atreyi-biswas-0269a309" height="30" width="40" /></a><br>
-<a href="https://dribbble.com/skull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="skull" height="30" width="40" />
-</a>
+<a href="https://dribbble.com/skull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="skull" height="30" width="40" /></a>
 </p>
 
 ---
 
-# 💻 Tech Stack:<br>
-### Programming Languages: 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300349C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A1?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+# 💻 Tech Stack:
+
+### Programming Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300349C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A1?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Design Tools:
-![Figma](https://img.shields.io/badge/figma-%235B72BE.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%235B72BE.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%12F22E1E.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-<br>
 
 ### Data Science and Analysis:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Database:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
+### Web Technologies:
+![HTML5](https://img.shields.io/badge/html5-%23E34F86.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Web Technologies: 
-![HTML5](https://img.shields.io/badge/html5-%23E34F86.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
-
-### Tools and Platforms: 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+### Tools and Platforms:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -64,10 +59,10 @@
 
 ---
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atreyi-biswas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atreyi-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="atreyi-biswas" /> </p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=atreyi-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="atreyi-biswas" /></p>
 
 ---
 
@@ -75,5 +70,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=atreyi-biswas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 
