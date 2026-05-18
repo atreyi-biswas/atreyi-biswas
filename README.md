@@ -20,8 +20,9 @@
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/atreyi-biswas-02669a309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atreyi-biswas-0269a309" height="30" width="40" /></a><br>
+<a href="https://www.linkedin.com/in/atreyi-biswas-02669a309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atreyi-biswas-0269a309" height="30" width="40" /></a>
 <a href="https://dribbble.com/skull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="skull" height="30" width="40" /></a>
+<a href="https://github.com/atreyi-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="skull" height="30" width="40" /></a>
 </p>
 
 ---
@@ -73,10 +74,11 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=atreyi-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="atreyi-biswas" /></p>
 
----
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atreyi-biswas&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
+<p align="center">
+  <img 
+    width="100%"
+    src="https://raw.githubusercontent.com/atreyi-biswas/border/main/unicorn_border/galaxy_strip.gif"
+    alt="Galaxy Border"
+  />
+</p>
