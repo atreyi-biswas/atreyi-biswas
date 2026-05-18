@@ -11,8 +11,9 @@
 <h3 align="center">Learning. Coding. Designing. Growing.</h3><br><br>
 
 - Student at **IIEST Shibpur**<br>
+- Pursuing **B.Tech**
 - Department of **Computer Science and Technology**<br>
-- Currently in my 2nd year<br>
+- Currently in my 3rd year<br>
 - Batch **2024-2028**
 
 ---
