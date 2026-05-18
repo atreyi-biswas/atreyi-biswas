@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img 
+    width="100%"
+    src="https://raw.githubusercontent.com/atreyi-biswas/border/main/unicorn_border/unicorn_strip.svg"
+    alt="Galaxy Unicorn Border"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Atreyi Biswas</h1>
 <h3 align="center">Learning. Coding. Designing. Growing.</h3><br><br>
 
