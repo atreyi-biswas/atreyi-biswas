@@ -2,7 +2,7 @@
 <p align="center">
   <img 
     width="100%"
-    src="https://raw.githubusercontent.com/atreyi-biswas/border/main/unicorn_border/unicorn_strip.svg"
+    src="https://raw.githubusercontent.com/atreyi-biswas/border/main/unicorn_border/unicorn_typing_readme.svg"
     alt="Galaxy Unicorn Border"
   />
 </p>
