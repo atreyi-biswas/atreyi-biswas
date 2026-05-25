@@ -7,7 +7,6 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Atreyi Biswas</h1>
 <h3 align="center">Learning. Coding. Designing.</h3><br><br>
 
 - Student at **IIEST Shibpur**<br>
