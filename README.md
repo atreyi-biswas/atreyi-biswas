@@ -9,6 +9,8 @@
 
 <h3 align="center">Learning. Coding. Designing.</h3><br><br>
 
+---
+
 - Student at **IIEST Shibpur**<br>
 - Pursuing **B.Tech**
 - Department of **Computer Science and Technology**<br>
